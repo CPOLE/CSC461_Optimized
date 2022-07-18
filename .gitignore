@@ -5,24 +5,24 @@
 !.gitignore
 
 # keep only assignments, project
-!/Basics1/Basics1/*
-!/Basics2/Basics2/*
-!/Basics3/Basics3/*
-!/Basics4/Basics4/*
-!/Basics5/Basics5/*
-!/Basics6/Basics6/*
-!/Basics7/Basics7/*
-!/Basics8/Basics8/*
-!/Basics9/Basics9/*
+!*/Basics1/Basics1/*
+!*/Basics2/Basics2/*
+!*/Basics3/Basics3/*
+!*/Basics4/Basics4/*
+!*/Basics5/Basics5/*
+!*/Basics6/Basics6/*
+!*/Basics7/Basics7/*
+!*/Basics8/Basics8/*
+!*/Basics9/Basics9/*
 
-!/PA1/PA1/*
-!/PA2/PA2/*
-!/PA3/PA3/*
-!/PA4/PA4/*
-!/PA5/PA5/*
-!/PA6/PA6/*
-!/PA7/PA7/*
-!/PA8/PA8/*
-!/PA9/PA9/*
+!*/PA1/PA1/*
+!*/PA2/PA2/*
+!*/PA3/PA3/*
+!*/PA4/PA4/*
+!*/PA5/PA5/*
+!*/PA6/PA6/*
+!*/PA7/PA7/*
+!*/PA8/PA8/*
+!*/PA9/PA9/*
 
-!/GameParticles/GameParticles/*
+!*/GameParticles/GameParticles/*
